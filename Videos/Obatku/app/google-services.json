@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670218420410",
+    "project_id": "fajar-ee812",
+    "storage_bucket": "fajar-ee812.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670218420410:android:bd96c61a250ff7c2fd4283",
+        "android_client_info": {
+          "package_name": "com.example.obatku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSOK0kDDeDYd6A49hPZdY6tSvo4betgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
